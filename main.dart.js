@@ -40973,7 +40973,7 @@ $S:0}
 A.apT.prototype={
 $0(){var s=0,r=A.R(t.H)
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:B.y6.Ov(window,"https://youtu.be/tjI9xAtDzq0","_blank")
+while(true)switch(s){case 0:B.y6.Ov(window,"https://youtu.be/m_NibA9HXW8","_blank")
 return A.P(null,r)}})
 return A.Q($async$$0,r)},
 $S:15}
